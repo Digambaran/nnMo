@@ -1,0 +1,8 @@
+{
+  "name": "nnMo",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Digambaran/nnMo",
+    "ssh": "git@github.com:Digambaran/nnMo.git"
+  }
+}
